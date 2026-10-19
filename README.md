@@ -1,1 +1,1 @@
-# curso-de-programaci-n-G12026
+# curso-de-programacion-G12026
