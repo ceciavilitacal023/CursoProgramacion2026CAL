@@ -1,3 +1,13 @@
 Hola como estas
 
 Cecilia
+
+Para subir las actualizaciones del ordenador a la nube:
+
+git add .
+git commit -m "texto"
+git push
+
+Para subir actualizaciones de la nube al ordenador
+
+git pull
