@@ -3,18 +3,16 @@
 
 using namespace std;
 
+// Declaración de funciones
+void linea() {
+    cout << "*--------------------*" << endl;
+    cout << "Mi nombre es Cecilia Avila" << endl;
+}
+
 int main() {
 
-    //Funciones
+    // Llamada a la función
+    linea();
 
-    void linea(){
-
-    int clave;
-    
-        cout << "*--------------------*" << endl;
-        cout << "Mi nombre es Cecilia Avila" << endl;
-   
     return 0;
-    }
-
 }
